@@ -54,3 +54,23 @@ Flow based analysis of network traffic from hosts in a live station modelled usi
 
 
 13. Classification of hosts can be done by calculating the mean of the total flow and prescribing a range where any mean lying outside the given range is a botnet host.
+
+
+## Data Preprocessing
+
+![Fig  2](https://user-images.githubusercontent.com/82095877/232967141-97ecf077-7792-474b-b414-d63537cfc3fe.png)
+![Fig  3](https://user-images.githubusercontent.com/82095877/232967168-1e2ca825-f8fd-4c98-8ab5-8b7654cfbffb.png)
+![Fig  4](https://user-images.githubusercontent.com/82095877/232967187-a5e197bd-ace3-48ab-b84e-fc8e2aaaf36b.png)
+![Fig  5](https://user-images.githubusercontent.com/82095877/232967196-276ba1b5-3203-4fee-8a15-96c64296c4dd.png)
+![Fig  6](https://user-images.githubusercontent.com/82095877/232967211-fb400813-72bd-48d1-808a-704eab3be97c.png)
+![Fig  7](https://user-images.githubusercontent.com/82095877/232967218-d5240dda-f4cb-4b86-a817-566522aa49a5.png)
+
+## Mean Range Modulation
+
+![image](https://user-images.githubusercontent.com/82095877/232967333-40301533-c1bd-4f8f-b81c-69e1f81dcdeb.png)
+
+## Accuracy Score
+
+![image](https://user-images.githubusercontent.com/82095877/232967377-3c84f95b-cedd-41b0-8011-aa9dc4fde41b.png)
+
+
