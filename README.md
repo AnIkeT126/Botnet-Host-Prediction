@@ -29,16 +29,16 @@ Flow based analysis of network traffic from hosts in a live station modelled usi
          <ul>
          
          
-         <li>Loss function: mean squared loss</li>
+         Loss function: mean squared loss
          
          
-         <li> Activation Function: tanh, is applied on all the hidden layers. </li>
+         Activation Function: tanh, is applied on all the hidden layers. 
          
          
-         <li> Optimizer: Stochastic Gradient Descent </li>
+         Optimizer: Stochastic Gradient Descent
          
          
-         <li> Train each IP from the model build to check the accuracy of the prediction. </li>
+         Train each IP from the model build to check the accuracy of the prediction.
          
          
 </ul>
