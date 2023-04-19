@@ -1,6 +1,6 @@
 # Botnet-Host-Prediction
 
-Flow based analysis of network traffic from hosts in a live station modelled using GRU-RNN to classify botnets amongst those hosts.
+### Flow based analysis of network traffic from hosts in a live station modelled using GRU-RNN to classify botnets amongst those hosts.
 
 ## Algorithm
 
