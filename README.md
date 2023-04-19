@@ -26,7 +26,7 @@ Flow based analysis of network traffic from hosts in a live station modelled usi
 
 
 8. The model is then trained using GRU-RNN with the following specifications:
-         <ol>
+         <ul>
          
          
          <li>Loss function: mean squared loss</li>
@@ -41,7 +41,7 @@ Flow based analysis of network traffic from hosts in a live station modelled usi
          <li> Train each IP from the model build to check the accuracy of the prediction. </li>
          
          
-</ol>
+</ul>
 
 
 10. Plot of the prediction for each IP i.e., each host against the actual flow is rigorous and not so clear.
